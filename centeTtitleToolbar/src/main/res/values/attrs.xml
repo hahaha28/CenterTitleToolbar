@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CenterTitleToolbar">
+        <attr name="centerTitle" format="string|reference"/>
+        <attr name="centerTitleSize" format="dimension|reference"/>
+        <attr name="centerTitleColor" format="color|reference"/>
+        <attr name="centerTitleTextAppearance" format="reference"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,3 @@
+include ':centeTtitleToolbar'
+include ':app'
+rootProject.name = "CenterTitleToolbar"
